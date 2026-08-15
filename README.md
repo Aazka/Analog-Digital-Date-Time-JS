@@ -29,3 +29,5 @@ Open the project folder.
 Open index.html in your browser.
 
 That's it! 🎉
+<img width="1871" height="817" alt="image" src="https://github.com/user-attachments/assets/4e10336a-d1a7-4545-b7b9-0d9e9480c56d" />
+
